@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Your local changes
-=======
-Changes from GitHub
->>>>>>> main
+This is Exercise app
