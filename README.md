@@ -1,1 +1,2 @@
-This is Exercise app
+# FITFLEX.
+This is the exercise app
